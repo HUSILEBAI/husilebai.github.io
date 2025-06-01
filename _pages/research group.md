@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research group/
-title: research group
+permalink: /Research Group/
+title: Research Group
 description: students
 nav: true
 nav_order: 5
