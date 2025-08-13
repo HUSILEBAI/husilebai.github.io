@@ -19,7 +19,7 @@
 <!-- Husile Bai's personal website.  -->
 
 ## About me 🌻
-My name is Husile (she/her) and I am a Assitant Professor of the Practice at the Vanderbilt University. My academic pursuits center around climate science and the associated impacts.
+My name is Husile (she/her) and I am a Assistant Professor of the Practice at the Vanderbilt University. My academic pursuits center around climate science and the associated impacts.
 
 ## I use
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
