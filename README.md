@@ -19,7 +19,7 @@
 <!-- Husile Bai's personal website.  -->
 
 ## About me 🌻
-My name is Husile (she/her) and I am a Postdoctoral Research Associate at the Snow & Ice Lab, University of Utah. My academic pursuits center around climate science and the associated impacts.
+My name is Husile (she/her) and I am a Assitant Professor of the Practice at the Vanderbilt University. My academic pursuits center around climate science and the associated impacts.
 
 ## I use
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,7 +29,7 @@ My name is Husile (she/her) and I am a Postdoctoral Research Associate at the Sn
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## contact
-husile.bai@utah.edu
+husile.bai@vanderbilt.edu
 
 
 <!-- [![Preview](https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
