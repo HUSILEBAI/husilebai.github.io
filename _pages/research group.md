@@ -18,7 +18,7 @@ Organize your courses by years, topics, or universities, however you like! --->
     {% include figure.liquid
        loading="eager"
        path="assets/img/kai.jpg"
-       title="kai"
+       title="Chengkai Pan"
        class="img-fluid rounded z-depth-1"
     %}
   </div>
